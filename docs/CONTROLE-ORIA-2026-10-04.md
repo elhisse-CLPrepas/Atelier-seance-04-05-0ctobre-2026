@@ -38,3 +38,13 @@ Aucune erreur bloquante relevée par les contrôles exécutés. Aucun changement
 ## Liaison au dépôt communiqué ensuite
 
 Le dépôt https://github.com/elhisse-CLPrepas/Atelier-s-ance-04_05-0ctobre-2026 a été fourni par le formateur et inspecté : il est vide. Le remote origin local pointe désormais vers ce dépôt. Les 53 fichiers utiles ont été sélectionnés explicitement ; node_modules, dist et travail-local restent exclus. Le premier commit local prépare la synchronisation. Aucun push ni publication Pages n’a encore été effectué ; les limites des tests visuels et interactifs restent applicables.
+
+## Intégration de l’affiche et nettoyage avant envoi
+
+Le 04 octobre 2026, le formateur a demandé l’intégration de son affiche et l’envoi de la production vers le dépôt communiqué. L’affiche originale est conservée localement ; sa copie identique public/assets/affiche-seance-04-LN-IA.png est intégrée à l’accueil avec texte alternatif, ouverture en grand et téléchargement. Le style prévoit une disposition sur une colonne sur petit écran.
+
+Le cas fictif est nommé « Madame Samira » dans le site, les vingt écrans concernés, les prompts, les fiches, les sources du guide et les guides Word/PDF. Le nettoyage a aussi été appliqué aux copies exclues de Git dans travail-local, dont production-oria-2026-10-04/fiche-accueil-v1.md. Le journal de rejeu conserve les empreintes initiales comme historique et ajoute celles des copies corrigées ; la copie du prompt de production est signalée comme anonymisée après production.
+
+Contrôles de cette révision : npm run check et npm run build réussis ; guide Word et PDF sans nom de famille par contrôle du contenu ; copie publique de l’affiche identique à l’original. Les pages PDF modifiées 9 à 11 ont été inspectées visuellement. Aucun navigateur pilotable n’est disponible ; affichage interactif et rendu Word restent non vérifiés. La demande concernant les « permissions de chantier » nécessite l’identification des passages visés ; une clarification a été demandée sans modifier arbitrairement les règles de confidentialité ou de validation.
+
+Le dépôt distant était toujours vide avant cet envoi. GitHub Pages n’est pas configuré au moment de cette vérification (API Pages : 404). L’envoi Git autorisé ne constitue pas une preuve de publication d’un site.

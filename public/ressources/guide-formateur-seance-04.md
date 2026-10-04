@@ -14,7 +14,7 @@ Ouvrir le site avec npm run dev. Préparer le partage d’écran, la démonstrat
 - 10 min : Classer et préparer la suite. Rouvrir le fichier et compléter la preuve du module 01.
 
 ## Démonstration en dix minutes
-1 min : expliquer le besoin de Samira et les entrées autorisées.
+1 min : expliquer le besoin de Madame Samira et les entrées autorisées.
 2 min : montrer le prompt et le copier dans l’assistant si disponible.
 2 min : examiner le brouillon d’erreurs préparé et l’annoncer comme tel.
 3 min : expliquer les quatre corrections et ouvrir la fiche finale.

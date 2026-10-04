@@ -2,7 +2,7 @@
 
 ## Pour qui
 
-Cette fiche s’adresse aux indépendants qui souhaitent clarifier leurs priorités et mieux organiser leur travail. Samira Benali propose un accompagnement à l’organisation à distance.
+Cette fiche s’adresse aux indépendants qui souhaitent clarifier leurs priorités et mieux organiser leur travail. Madame Samira propose un accompagnement à l’organisation à distance.
 
 ## Objectif de l’échange
 
@@ -14,7 +14,7 @@ Notez une priorité et un exemple de difficulté rencontrée dans votre activit�
 
 ## Déroulement proposé
 
-Vous présentez votre priorité. Vous expliquez ensuite ce qui vous empêche d’avancer. Avec Samira, vous clarifiez le besoin et choisissez une première action. Vous gardez la décision sur les informations que vous partagez et sur l’action que vous souhaitez engager.
+Vous présentez votre priorité. Vous expliquez ensuite ce qui vous empêche d’avancer. Avec Madame Samira, vous clarifiez le besoin et choisissez une première action. Vous gardez la décision sur les informations que vous partagez et sur l’action que vous souhaitez engager.
 
 ## Après l’échange
 

@@ -1,6 +1,6 @@
 À partir des seules informations confirmées ci-dessous,
 rédige une fiche d’accueil de 150 à 220 mots pour le premier échange
-avec Samira Benali, coach en organisation.
+avec Madame Samira, coach en organisation.
 Public : indépendants. Échange à distance.
 Objectif : clarifier les priorités et choisir une première action.
 À préparer : une priorité et un exemple de difficulté sans données de tiers.

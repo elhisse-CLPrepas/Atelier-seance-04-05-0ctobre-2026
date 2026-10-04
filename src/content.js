@@ -90,7 +90,7 @@ N’invente pas de programme ou de date de séance.`}
 ];
 
 export const demo = {
- person:'Samira Benali', activity:'Coach en organisation',
+ person:'Madame Samira', activity:'Coach en organisation',
  label:'Cas fictif · scénario préparé · aucun appel à une IA depuis ce site',
  inputs:`Public : indépendants.
 Activité : accompagnement à l’organisation du travail.
@@ -100,7 +100,7 @@ Objectif du premier échange : clarifier les priorités et choisir une première
 Non fournis : tarifs, durée du rendez-vous, coordonnées, résultats chiffrés, certification.`,
  prompt:`À partir des seules informations confirmées ci-dessous,
 rédige une fiche d’accueil de 150 à 220 mots pour le premier échange
-avec Samira Benali, coach en organisation.
+avec Madame Samira, coach en organisation.
 Public : indépendants. Échange à distance.
 Objectif : clarifier les priorités et choisir une première action.
 À préparer : une priorité et un exemple de difficulté sans données de tiers.
@@ -108,7 +108,7 @@ Structure : pour qui, objectif, préparation, déroulement, suite.
 N’invente ni prix, ni durée, ni témoignage, ni certification.
 N’annonce aucun résultat garanti. Signale les modalités à confirmer.
 Fichier : fiche-accueil-v1.md. Statut : brouillon à relire.`,
- draft:`Bienvenue chez Samira Benali, coach certifiée en organisation.
+ draft:`Bienvenue chez Madame Samira, coach certifiée en organisation.
 Notre méthode vous garantit 30 % de productivité en plus en sept jours.
 Votre premier rendez-vous à distance dure 60 minutes et coûte 500 DH.
 Envoyez votre liste de clients et leurs numéros pour préparer notre échange.
@@ -123,7 +123,7 @@ Nous choisirons ensuite vos priorités et une première action.`,
 
 ## Pour qui
 
-Cette fiche s’adresse aux indépendants qui souhaitent clarifier leurs priorités et mieux organiser leur travail. Samira Benali propose un accompagnement à l’organisation à distance.
+Cette fiche s’adresse aux indépendants qui souhaitent clarifier leurs priorités et mieux organiser leur travail. Madame Samira propose un accompagnement à l’organisation à distance.
 
 ## Objectif de l’échange
 
@@ -135,7 +135,7 @@ Notez une priorité et un exemple de difficulté rencontrée dans votre activit�
 
 ## Déroulement proposé
 
-Vous présentez votre priorité. Vous expliquez ensuite ce qui vous empêche d’avancer. Avec Samira, vous clarifiez le besoin et choisissez une première action. Vous gardez la décision sur les informations que vous partagez et sur l’action que vous souhaitez engager.
+Vous présentez votre priorité. Vous expliquez ensuite ce qui vous empêche d’avancer. Avec Madame Samira, vous clarifiez le besoin et choisissez une première action. Vous gardez la décision sur les informations que vous partagez et sur l’action que vous souhaitez engager.
 
 ## Après l’échange
 
@@ -171,7 +171,7 @@ export const slides = [
  ['La méthode','Huit étapes à rendre visibles','Un résultat devient utilisable après contrôle.',['Besoin → cadrage → prompt → production.','Contrôle humain → correction.','Documentation → preuve.'],'Demander où le candidat intervient. Réponse : à toutes les étapes.'],
  ['10 minutes','Cadrez votre premier essai','Complétez le besoin, le public et le fichier attendu.',['Choisissez un usage de votre carte.','Listez les informations confirmées.','Écrivez un critère de réussite observable.'],'Ouvrir Mon atelier. Les 10 premières minutes incluent les rappels courts.'],
  ['15 minutes','Rédigez un engagement réaliste','Ce que vous produirez et ce que vous contrôlerez.',['Un livrable précis.','Un rythme et une échéance choisis.','Une vérification et une preuve prévues.'],'La fiche d’identification se complète séparément dans l’espace privé.'],
- ['Démonstration','Samira prépare une fiche d’accueil','Cas fictif, entrées limitées, résultat vérifiable.',['Le besoin · expliquer le premier échange.','Le public · indépendants.','Le livrable · fiche d’accueil de 150 à 220 mots.'],'Ouvrir Démonstration. Démo 10 minutes, incluse dans les 30 minutes de production.'],
+ ['Démonstration','Madame Samira prépare une fiche d’accueil','Cas fictif, entrées limitées, résultat vérifiable.',['Le besoin · expliquer le premier échange.','Le public · indépendants.','Le livrable · fiche d’accueil de 150 à 220 mots.'],'Ouvrir Démonstration. Démo 10 minutes, incluse dans les 30 minutes de production.'],
  ['Le contrôle','Repérez quatre ajouts injustifiés','Le brouillon est un exemple d’erreurs préparé.',['Une certification non fournie.','Un résultat chiffré garanti.','Un tarif et une durée inventés.','Une demande inutile de données clients.'],'Ne pas attribuer ce brouillon à un outil en direct.'],
  ['30 minutes','Produisez votre première version','10 minutes de démonstration puis 20 minutes de pratique.',['Exécutez votre prompt dans l’assistant choisi.','Copiez le prompt réellement utilisé.','Enregistrez le brouillon sous un nom explicite.'],'Le site n’appelle aucune IA. Les candidats travaillent dans leur outil puis reviennent au carnet.'],
  ['20 minutes','Corrigez une erreur identifiable','Documentez le changement, même s’il est petit.',['Passage avant correction.','Problème observé et vérification.','Version retenue et motif du choix.'],'Si aucune erreur factuelle, améliorer un critère de clarté et l’expliquer.'],

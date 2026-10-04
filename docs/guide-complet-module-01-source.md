@@ -260,7 +260,7 @@ Ouvrez « Mon atelier ». Remplissez le cadrage puis l’engagement. Exécutez v
 
 ## Démonstration et préparation du premier livrable
 
-Samira Benali est une coach fictive en organisation. Elle souhaite préparer une fiche expliquant le premier échange avec un indépendant. Le cas poursuit la carte d’usages présentée à la séance 03.
+Madame Samira est une coach fictive en organisation. Elle souhaite préparer une fiche expliquant le premier échange avec un indépendant. Le cas poursuit la carte d’usages présentée à la séance 03.
 
 ### Les seules entrées autorisées
 
@@ -282,7 +282,7 @@ Dix minutes incluses dans la phase de production : 1 minute de cadrage, 2 minute
 ```text
 À partir des seules informations confirmées ci-dessous,
 rédige une fiche d’accueil de 150 à 220 mots pour le premier échange
-avec Samira Benali, coach en organisation.
+avec Madame Samira, coach en organisation.
 Public : indépendants. Échange à distance.
 Objectif : clarifier les priorités et choisir une première action.
 À préparer : une priorité et un exemple de difficulté sans données de tiers.
@@ -302,7 +302,7 @@ Le site montre un scénario préparé. Pour une exécution réelle, copiez le pr
 Le texte ci-dessous est un exemple d’erreurs préparé pour l’exercice. Il n’est pas présenté comme la transcription d’un appel réel à un outil.
 
 ```text
-Bienvenue chez Samira Benali, coach certifiée en organisation.
+Bienvenue chez Madame Samira, coach certifiée en organisation.
 Notre méthode vous garantit 30 % de productivité en plus en sept jours.
 Votre premier rendez-vous à distance dure 60 minutes et coûte 500 DH.
 Envoyez votre liste de clients et leurs numéros pour préparer notre échange.
@@ -335,7 +335,7 @@ Si vous utilisez une réponse obtenue en direct, analysez les erreurs réellemen
 
 ### Pour qui
 
-Cette fiche s’adresse aux indépendants qui souhaitent clarifier leurs priorités et mieux organiser leur travail. Samira Benali propose un accompagnement à l’organisation à distance.
+Cette fiche s’adresse aux indépendants qui souhaitent clarifier leurs priorités et mieux organiser leur travail. Madame Samira propose un accompagnement à l’organisation à distance.
 
 ### Objectif de l’échange
 
@@ -347,7 +347,7 @@ Notez une priorité et un exemple de difficulté rencontrée dans votre activit�
 
 ### Déroulement proposé
 
-Vous présentez votre priorité. Vous expliquez ensuite ce qui vous empêche d’avancer. Avec Samira, vous clarifiez le besoin et choisissez une première action. Vous gardez la décision sur les informations que vous partagez et sur l’action que vous souhaitez engager.
+Vous présentez votre priorité. Vous expliquez ensuite ce qui vous empêche d’avancer. Avec Madame Samira, vous clarifiez le besoin et choisissez une première action. Vous gardez la décision sur les informations que vous partagez et sur l’action que vous souhaitez engager.
 
 ### Après l’échange
 

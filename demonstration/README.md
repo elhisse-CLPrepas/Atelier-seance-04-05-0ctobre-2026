@@ -1,4 +1,4 @@
-# Démonstration Samira Benali
+# Démonstration Madame Samira
 Cas fictif préparé pour la séance du lundi 05 octobre 2026.
 Les fichiers sont un scénario pédagogique. Le brouillon n’est pas présenté comme une sortie réelle de l’outil d’un candidat.
 

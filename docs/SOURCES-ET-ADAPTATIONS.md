@@ -12,7 +12,7 @@ Les noms de fichiers de diffusion ne reprennent pas les anciennes dates. Les fic
 La première production corrigée devient une pièce centrale, aux côtés de l’engagement et du portfolio.
 La fiche administrative existante doit être utilisée si elle a déjà été validée. Un modèle vierge de travail est fourni à défaut, à compléter uniquement dans l’espace privé.
 L’horaire n’est pas fixé. Les vingt écrans sont un support de conduite, pas vingt séquences supplémentaires au minutage.
-Le scénario Samira et son brouillon sont préparés. Ils ne représentent ni une cliente réelle ni une transcription d’appel à une IA en direct.
+Le scénario Madame Samira et son brouillon sont préparés. Ils ne représentent ni une cliente réelle ni une transcription d’appel à une IA en direct.
 La grille du site est une auto-évaluation. La validation pédagogique reste humaine.
 
 ## Sources techniques
