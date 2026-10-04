@@ -48,3 +48,9 @@ Le cas fictif est nommé « Madame Samira » dans le site, les vingt écrans con
 Contrôles de cette révision : npm run check et npm run build réussis ; guide Word et PDF sans nom de famille par contrôle du contenu ; copie publique de l’affiche identique à l’original. Les pages PDF modifiées 9 à 11 ont été inspectées visuellement. Aucun navigateur pilotable n’est disponible ; affichage interactif et rendu Word restent non vérifiés. La demande concernant les « permissions de chantier » nécessite l’identification des passages visés ; une clarification a été demandée sans modifier arbitrairement les règles de confidentialité ou de validation.
 
 Le dépôt distant était toujours vide avant cet envoi. GitHub Pages n’est pas configuré au moment de cette vérification (API Pages : 404). L’envoi Git autorisé ne constitue pas une preuve de publication d’un site.
+
+## Simplification précisée et envoi Git
+
+Après clarification du formateur, les instructions npm et de rejeu dans VS Code ont été retirées de la démonstration visible et du guide pédagogique Word/PDF. L’écran des outils et la synthèse du module présentent désormais le dossier personnel et le binôme. Le conducteur indique simplement d’ouvrir le site. Les instructions d’installation et de déploiement restent dans le README et la documentation technique. Les sept vues et les vingt écrans sont conservés, ainsi que les consignes de confidentialité, de sauvegarde et de validation humaine.
+
+Le commit 714b130 a été envoyé sur origin/main. Le workflow lancé par cet envoi a échoué à actions/configure-pages, parce que GitHub Pages n’est pas activé (run 37224960513). Aucune publication du site n’est attestée. Les corrections de simplification font l’objet d’un envoi complémentaire. Les tests de navigateur et de rendu Word restent non vérifiés dans cette session.

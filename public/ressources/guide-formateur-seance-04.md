@@ -3,7 +3,7 @@ Lundi 05 octobre 2026 — Module 01 — Horaire à confirmer
 Objectif : une production corrigée, un engagement et une preuve classée.
 
 ## Avant la rencontre
-Ouvrir le site avec npm run dev. Préparer le partage d’écran, la démonstration, un dossier vide et l’assistant utilisé en direct. Faire apporter l’objectif personnel et la carte d’usages.
+Ouvrir le site de l’atelier. Préparer le partage d’écran, la démonstration, un dossier vide et l’assistant utilisé en direct. Faire apporter l’objectif personnel et la carte d’usages.
 
 ## Déroulé de 100 minutes
 - 10 min : Choisir l’essai. Objectif reformulé et premier fichier choisi.

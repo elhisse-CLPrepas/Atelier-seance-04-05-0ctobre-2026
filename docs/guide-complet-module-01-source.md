@@ -489,12 +489,6 @@ Personne sollicitée pour la relecture : _____________________________
 
 Pour un débutant, limiter le travail à une fiche courte et une correction expliquée. Pour un candidat autonome, proposer un second format du même contenu puis contrôler la cohérence. Ne pas laisser la mise en forme absorber le temps de contrôle.
 
-### Utiliser le pack dans VS Code
-
-Ouvrir atelier-seance-04-LN-IA. Installer les dépendances avec npm ci puis lancer npm run dev. Copier PROMPT-PILOTAGE-CODEX.md dans Codex pour inspecter et poursuivre le projet. Les consignes locales sont dans AGENTS.md.
-
-La commande npm run demo copie les fichiers de démonstration préparés dans un nouveau dossier travail-local et génère une trace technique. Elle ne lance pas d’IA et n’atteste pas une relecture humaine. Une véritable nouvelle production se fait à partir du prompt et des entrées fournis.
-
 ### Préparer le module 02
 
 Demander à chaque candidat son prompt réellement utilisé, le résultat obtenu et un écart concret avec le besoin. Le module 02 approfondira les prompts : contexte, tâche, contraintes, format et critères de réussite. Le calendrier détaillé sera confirmé par le formateur.
