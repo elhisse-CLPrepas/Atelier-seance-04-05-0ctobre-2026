@@ -1,0 +1,114 @@
+﻿[
+    {
+        "port":  5173,
+        "path":  "",
+        "status":  200,
+        "bytes":  846,
+        "type":  "text/html"
+    },
+    {
+        "port":  5173,
+        "path":  "assets/logo-LN-IA.png",
+        "status":  200,
+        "bytes":  856856,
+        "type":  "image/png"
+    },
+    {
+        "port":  5173,
+        "path":  "ressources/guide-complet-module-01-LN-IA.docx",
+        "status":  200,
+        "bytes":  896642,
+        "type":  ""
+    },
+    {
+        "port":  5173,
+        "path":  "ressources/guide-complet-module-01-LN-IA.pdf",
+        "status":  200,
+        "bytes":  316723,
+        "type":  "application/pdf"
+    },
+    {
+        "port":  5173,
+        "path":  "ressources/modeles-candidat-module-01.zip",
+        "status":  200,
+        "bytes":  5284,
+        "type":  "application/zip"
+    },
+    {
+        "port":  5173,
+        "path":  "ressources/guide-formateur-seance-04.md",
+        "status":  200,
+        "bytes":  2305,
+        "type":  "text/markdown"
+    },
+    {
+        "port":  5173,
+        "path":  "demonstration/fiche-accueil-corrigee.html",
+        "status":  200,
+        "bytes":  2163,
+        "type":  "text/html;charset=utf-8"
+    },
+    {
+        "port":  5173,
+        "path":  "modeles/preuves-module-01.md",
+        "status":  200,
+        "bytes":  1475,
+        "type":  "text/markdown"
+    },
+    {
+        "port":  4173,
+        "path":  "",
+        "status":  200,
+        "bytes":  890,
+        "type":  "text/html"
+    },
+    {
+        "port":  4173,
+        "path":  "assets/logo-LN-IA.png",
+        "status":  200,
+        "bytes":  856856,
+        "type":  "image/png"
+    },
+    {
+        "port":  4173,
+        "path":  "ressources/guide-complet-module-01-LN-IA.docx",
+        "status":  200,
+        "bytes":  896642,
+        "type":  ""
+    },
+    {
+        "port":  4173,
+        "path":  "ressources/guide-complet-module-01-LN-IA.pdf",
+        "status":  200,
+        "bytes":  316723,
+        "type":  "application/pdf"
+    },
+    {
+        "port":  4173,
+        "path":  "ressources/modeles-candidat-module-01.zip",
+        "status":  200,
+        "bytes":  5284,
+        "type":  "application/zip"
+    },
+    {
+        "port":  4173,
+        "path":  "ressources/guide-formateur-seance-04.md",
+        "status":  200,
+        "bytes":  2305,
+        "type":  "text/markdown"
+    },
+    {
+        "port":  4173,
+        "path":  "demonstration/fiche-accueil-corrigee.html",
+        "status":  200,
+        "bytes":  2163,
+        "type":  "text/html;charset=utf-8"
+    },
+    {
+        "port":  4173,
+        "path":  "modeles/preuves-module-01.md",
+        "status":  200,
+        "bytes":  1475,
+        "type":  "text/markdown"
+    }
+]

@@ -1,0 +1,16 @@
+{
+  "browser": "153.0.8010.0",
+  "testedAt": "2026-10-04T10:27:56.814Z",
+  "deploymentPath": "/atelier-seance-04-LN-IA/",
+  "routes": 7,
+  "slides": 20,
+  "demoSteps": 6,
+  "exports": 4,
+  "saveRestoreClear": true,
+  "clipboard": true,
+  "mobileWidth": 390,
+  "desktopWidth": 1440,
+  "consoleErrors": [],
+  "failedRequests": [],
+  "onlinePublicationTested": false
+}
