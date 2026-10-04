@@ -54,3 +54,13 @@ Le dépôt distant était toujours vide avant cet envoi. GitHub Pages n’est pa
 Après clarification du formateur, les instructions npm et de rejeu dans VS Code ont été retirées de la démonstration visible et du guide pédagogique Word/PDF. L’écran des outils et la synthèse du module présentent désormais le dossier personnel et le binôme. Le conducteur indique simplement d’ouvrir le site. Les instructions d’installation et de déploiement restent dans le README et la documentation technique. Les sept vues et les vingt écrans sont conservés, ainsi que les consignes de confidentialité, de sauvegarde et de validation humaine.
 
 Le commit 714b130 a été envoyé sur origin/main. Le workflow lancé par cet envoi a échoué à actions/configure-pages, parce que GitHub Pages n’est pas activé (run 37224960513). Aucune publication du site n’est attestée. Les corrections de simplification font l’objet d’un envoi complémentaire. Les tests de navigateur et de rendu Word restent non vérifiés dans cette session.
+
+## Vérification finale du site publié et correction du carnet
+
+Date : 04 octobre 2026, Africa/Casablanca. URL confirmée : https://elhisse-clprepas.github.io/Atelier-seance-04-05-0ctobre-2026/.
+
+Le déploiement 37228273045 a réussi. Pages est activé en mode workflow. Dix-neuf adresses du site publié (accueil, JS/CSS compilés et seize ressources publiques) ont répondu HTTP 200. Les quatre liens vers les séances précédentes ont également répondu HTTP 200. Le HTML référence le bundle compilé, et le bundle vérifié ne contient pas le nom de famille retiré.
+
+Un test isolé de la logique JavaScript, sans navigateur, a exercé les sept vues, vingt écrans, six étapes de démonstration, quatre exports, signalement des champs manquants, échappement des saisies, sauvegarde, reprise, annulation de l’effacement, effacement confirmé et indisponibilité du stockage. Un bug a été reproduit : si removeItem échoue, le carnet annonçait malgré tout « Brouillon effacé ». Le message distingue désormais les saisies effacées de la sauvegarde persistante qui n’a pas pu être supprimée et indique l’action à effectuer dans le navigateur. Les tests de logique, npm run check et npm run build ont réussi après correction.
+
+Le contrôle visuel réussi du site publié a été rapporté par le formateur. Aucun navigateur pilotable n’est disponible pour la session ORIA : mise en page, interactions réelles, presse-papiers, plein écran et téléchargements depuis l’interface restent non retestés par l’agent. Le fichier de test et les résultats détaillés HTTP sont dans travail-local et exclus du dépôt. La modification locale existante de demonstration/02-prompt.md a été préservée et n’est pas incluse dans le correctif.
